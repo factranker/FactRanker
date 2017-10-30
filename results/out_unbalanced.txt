@@ -1,0 +1,63 @@
+AdaBoost
+             precision    recall  f1-score   support
+
+        0.0       0.96      1.00      0.98      2871
+        1.0       0.00      0.00      0.00       111
+
+avg / total       0.93      0.96      0.94      2982
+Decision Tree
+             precision    recall  f1-score   support
+
+        0.0       0.96      1.00      0.98      2871
+        1.0       0.33      0.01      0.02       111
+
+avg / total       0.94      0.96      0.94      2982
+Linear Discriminant Analysis
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.99      0.98      2871
+        1.0       0.23      0.06      0.10       111
+
+avg / total       0.94      0.96      0.95      2982
+Linear SVM
+             precision    recall  f1-score   support
+
+        0.0       0.96      1.00      0.98      2871
+        1.0       0.00      0.00      0.00       111
+
+avg / total       0.93      0.96      0.94      2982
+Naive Bayes
+             precision    recall  f1-score   support
+
+        0.0       0.98      0.80      0.88      2871
+        1.0       0.10      0.56      0.17       111
+
+avg / total       0.95      0.79      0.85      2982
+Nearest Neighbors
+             precision    recall  f1-score   support
+
+        0.0       0.96      1.00      0.98      2871
+        1.0       0.10      0.01      0.02       111
+
+avg / total       0.93      0.96      0.94      2982
+Quadratic Discriminant Analysis
+             precision    recall  f1-score   support
+
+        0.0       0.98      0.85      0.91      2871
+        1.0       0.13      0.57      0.21       111
+
+avg / total       0.95      0.84      0.88      2982
+Random Forest
+             precision    recall  f1-score   support
+
+        0.0       0.96      1.00      0.98      2871
+        1.0       0.00      0.00      0.00       111
+
+avg / total       0.93      0.96      0.94      2982
+RBF SVM
+             precision    recall  f1-score   support
+
+        0.0       0.96      1.00      0.98      2871
+        1.0       0.00      0.00      0.00       111
+
+avg / total       0.93      0.96      0.94      2982

@@ -1,0 +1,126 @@
+AdaBoost_sel
+             precision    recall  f1-score   support
+
+        0.0       0.77      0.75      0.76       102
+        1.0       0.71      0.74      0.73        88
+
+avg / total       0.74      0.74      0.74       190
+AdaBoost
+             precision    recall  f1-score   support
+
+        0.0       0.77      0.75      0.76       102
+        1.0       0.71      0.74      0.73        88
+
+avg / total       0.74      0.74      0.74       190
+Decision Tree_sel
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.67      0.69       102
+        1.0       0.64      0.68      0.66        88
+
+avg / total       0.68      0.67      0.67       190
+Decision Tree
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.68      0.69       102
+        1.0       0.65      0.68      0.66        88
+
+avg / total       0.68      0.68      0.68       190
+Linear Discriminant Analysis_sel
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.69      0.72       102
+        1.0       0.67      0.74      0.70        88
+
+avg / total       0.71      0.71      0.71       190
+Linear Discriminant Analysis
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.69      0.72       102
+        1.0       0.67      0.74      0.70        88
+
+avg / total       0.71      0.71      0.71       190
+Linear SVM_sel
+             precision    recall  f1-score   support
+
+        0.0       0.69      0.72      0.70       102
+        1.0       0.65      0.62      0.64        88
+
+avg / total       0.67      0.67      0.67       190
+Linear SVM
+             precision    recall  f1-score   support
+
+        0.0       0.69      0.72      0.70       102
+        1.0       0.65      0.62      0.64        88
+
+avg / total       0.67      0.67      0.67       190
+Naive Bayes_sel
+             precision    recall  f1-score   support
+
+        0.0       0.67      0.69      0.68       102
+        1.0       0.63      0.61      0.62        88
+
+avg / total       0.65      0.65      0.65       190
+Naive Bayes
+             precision    recall  f1-score   support
+
+        0.0       0.67      0.69      0.68       102
+        1.0       0.63      0.61      0.62        88
+
+avg / total       0.65      0.65      0.65       190
+Nearest Neighbors_sel
+             precision    recall  f1-score   support
+
+        0.0       0.63      0.62      0.62       102
+        1.0       0.57      0.58      0.57        88
+
+avg / total       0.60      0.60      0.60       190
+Nearest Neighbors
+             precision    recall  f1-score   support
+
+        0.0       0.63      0.62      0.62       102
+        1.0       0.57      0.58      0.57        88
+
+avg / total       0.60      0.60      0.60       190
+Quadratic Discriminant Analysis_sel
+             precision    recall  f1-score   support
+
+        0.0       0.81      0.25      0.39       102
+        1.0       0.52      0.93      0.67        88
+
+avg / total       0.68      0.57      0.52       190
+Quadratic Discriminant Analysis
+             precision    recall  f1-score   support
+
+        0.0       0.81      0.25      0.39       102
+        1.0       0.52      0.93      0.67        88
+
+avg / total       0.68      0.57      0.52       190
+Random Forest_sel
+             precision    recall  f1-score   support
+
+        0.0       0.63      0.54      0.58       102
+        1.0       0.54      0.64      0.59        88
+
+avg / total       0.59      0.58      0.58       190
+Random Forest
+             precision    recall  f1-score   support
+
+        0.0       0.63      0.63      0.63       102
+        1.0       0.57      0.57      0.57        88
+
+avg / total       0.60      0.60      0.60       190
+RBF SVM_sel
+             precision    recall  f1-score   support
+
+        0.0       1.00      0.05      0.09       102
+        1.0       0.48      1.00      0.64        88
+
+avg / total       0.76      0.49      0.35       190
+RBF SVM
+             precision    recall  f1-score   support
+
+        0.0       1.00      0.05      0.09       102
+        1.0       0.48      1.00      0.64        88
+
+avg / total       0.76      0.49      0.35       190
